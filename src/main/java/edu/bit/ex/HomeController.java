@@ -16,10 +16,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 
 
-
+//daun
 //1
 //version2
-//Áø¼º¤»¤»
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 @Controller
 public class HomeController {
 	
