@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 //daun2
 //1
 //version2
-//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+//ÇÑ±Û
 @Controller
 public class HomeController {
 	
