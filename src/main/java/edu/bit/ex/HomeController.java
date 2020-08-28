@@ -16,10 +16,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 
 
-
+//daun2
 //1
 //version2
-//진성ㅋㅋ
+//한글
 @Controller
 public class HomeController {
 	
